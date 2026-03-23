@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input, textarea {
+    margin: 10px;
+    padding: 8px;
+}
